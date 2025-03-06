@@ -1,0 +1,303 @@
+Timpul 0
+Clienti : (19,3)  (18,2)  (13,2)  (4,3) 
+Coada 1: 
+Coada 2: 
+
+Timpul 1
+Clienti : (19,3)  (18,2)  (13,2)  (4,3) 
+Coada 1: 
+Coada 2: 
+
+Timpul 2
+Clienti : (19,3)  (18,2)  (13,2)  (4,3) 
+Coada 1: 
+Coada 2: 
+
+Timpul 3
+Clienti : (19,3)  (18,2)  (13,2)  (4,3) 
+Coada 1: 
+Coada 2: 
+
+Timpul 4
+Clienti : (19,3)  (18,2)  (13,2) 
+Coada 1:  (4,3) 
+Coada 2: 
+
+Timpul 5
+Clienti : (19,3)  (18,2)  (13,2) 
+Coada 1:  (4,2) 
+Coada 2: 
+
+Timpul 6
+Clienti : (19,3)  (18,2)  (13,2) 
+Coada 1:  (4,1) 
+Coada 2: 
+
+Timpul 7
+Clienti : (19,3)  (18,2)  (13,2) 
+Coada 1: 
+Coada 2: 
+
+Timpul 8
+Clienti : (19,3)  (18,2)  (13,2) 
+Coada 1: 
+Coada 2: 
+
+Timpul 9
+Clienti : (19,3)  (18,2)  (13,2) 
+Coada 1: 
+Coada 2: 
+
+Timpul 10
+Clienti : (19,3)  (18,2)  (13,2) 
+Coada 1: 
+Coada 2: 
+
+Timpul 11
+Clienti : (19,3)  (18,2)  (13,2) 
+Coada 1: 
+Coada 2: 
+
+Timpul 12
+Clienti : (19,3)  (18,2)  (13,2) 
+Coada 1: 
+Coada 2: 
+
+Timpul 13
+Clienti : (19,3)  (18,2) 
+Coada 1:  (13,2) 
+Coada 2: 
+
+Timpul 14
+Clienti : (19,3)  (18,2) 
+Coada 1:  (13,1) 
+Coada 2: 
+
+Timpul 15
+Clienti : (19,3)  (18,2) 
+Coada 1: 
+Coada 2: 
+
+Timpul 16
+Clienti : (19,3)  (18,2) 
+Coada 1: 
+Coada 2: 
+
+Timpul 17
+Clienti : (19,3)  (18,2) 
+Coada 1: 
+Coada 2: 
+
+Timpul 18
+Clienti : (19,3) 
+Coada 1:  (18,2) 
+Coada 2: 
+
+Timpul 19
+Clienti :
+Coada 1:  (18,1) 
+Coada 2:  (19,3) 
+
+Timpul 20
+Clienti :
+Coada 1: 
+Coada 2:  (19,2) 
+
+Timpul 21
+Clienti :
+Coada 1: 
+Coada 2:  (19,1) 
+
+Timpul 22
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 23
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 24
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 25
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 26
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 27
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 28
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 29
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 30
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 31
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 32
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 33
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 34
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 35
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 36
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 37
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 38
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 39
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 40
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 41
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 42
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 43
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 44
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 45
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 46
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 47
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 48
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 49
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 50
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 51
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 52
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 53
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 54
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 55
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 56
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 57
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 58
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 59
+Clienti :
+Coada 1: 
+Coada 2: 
+
+timpul de asteptare mediu: 2.0
+timpul de procesare mediu: 2.5
+ora de varf este la timp= 19

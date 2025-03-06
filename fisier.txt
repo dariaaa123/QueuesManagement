@@ -1,0 +1,153 @@
+Timpul 0
+Clienti : (7,2)  (6,2)  (5,3)  (5,3)  (5,2)  (4,2)  (4,2)  (4,3)  (3,2)  (2,3) 
+Coada 1: 
+Coada 2: 
+
+Timpul 1
+Clienti : (7,2)  (6,2)  (5,3)  (5,3)  (5,2)  (4,2)  (4,2)  (4,3)  (3,2)  (2,3) 
+Coada 1: 
+Coada 2: 
+
+Timpul 2
+Clienti : (7,2)  (6,2)  (5,3)  (5,3)  (5,2)  (4,2)  (4,2)  (4,3)  (3,2) 
+Coada 1:  (2,3) 
+Coada 2: 
+
+Timpul 3
+Clienti : (7,2)  (6,2)  (5,3)  (5,3)  (5,2)  (4,2)  (4,2)  (4,3) 
+Coada 1:  (2,2) 
+Coada 2:  (3,2) 
+
+Timpul 4
+Clienti : (7,2)  (6,2)  (5,3)  (5,3)  (5,2) 
+Coada 1:  (2,1)  (4,2)  (4,3) 
+Coada 2:  (3,1)  (4,2) 
+
+Timpul 5
+Clienti : (7,2)  (6,2) 
+Coada 1:  (4,2)  (4,3)  (5,3) 
+Coada 2:  (4,2)  (5,3)  (5,2) 
+
+Timpul 6
+Clienti : (7,2) 
+Coada 1:  (4,1)  (4,3)  (5,3) 
+Coada 2:  (4,1)  (5,3)  (5,2)  (6,2) 
+
+Timpul 7
+Clienti :
+Coada 1:  (4,3)  (5,3)  (7,2) 
+Coada 2:  (5,3)  (5,2)  (6,2) 
+
+Timpul 8
+Clienti :
+Coada 1:  (4,2)  (5,3)  (7,2) 
+Coada 2:  (5,2)  (5,2)  (6,2) 
+
+Timpul 9
+Clienti :
+Coada 1:  (4,1)  (5,3)  (7,2) 
+Coada 2:  (5,1)  (5,2)  (6,2) 
+
+Timpul 10
+Clienti :
+Coada 1:  (5,3)  (7,2) 
+Coada 2:  (5,2)  (6,2) 
+
+Timpul 11
+Clienti :
+Coada 1:  (5,2)  (7,2) 
+Coada 2:  (5,1)  (6,2) 
+
+Timpul 12
+Clienti :
+Coada 1:  (5,1)  (7,2) 
+Coada 2:  (6,2) 
+
+Timpul 13
+Clienti :
+Coada 1:  (7,2) 
+Coada 2:  (6,1) 
+
+Timpul 14
+Clienti :
+Coada 1:  (7,1) 
+Coada 2: 
+
+Timpul 15
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 16
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 17
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 18
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 19
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 20
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 21
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 22
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 23
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 24
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 25
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 26
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 27
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 28
+Clienti :
+Coada 1: 
+Coada 2: 
+
+Timpul 29
+Clienti :
+Coada 1: 
+Coada 2: 
+
+timpul de asteptare mediu: 8.0
+timpul de procesare mediu: 2.4
+ora de varf este la timp= 5
